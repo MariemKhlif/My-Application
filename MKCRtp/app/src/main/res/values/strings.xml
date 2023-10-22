@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title">Your new routine</string>
+    <string name="text">Your age :</string>
+    <string name="text2">Is your skin sensitive ?</string>
+    <string name="resultat">...</string>
+
+</resources>
+
+
